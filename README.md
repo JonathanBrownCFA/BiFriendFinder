@@ -127,7 +127,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 * **Jonathan Brown** 
 
 
-### [Heroku Live Demo](https://friendfinder-jbrown.herokuapp.com)
+### [Heroku Live Demo](https://bi-friendfinder.herokuapp.com/)
 
 The package has the following files - server.js, package.json, app/data/friends.js, app/public/home.html, app/public/survey.html, app/routing/apiRoutes.js, app/routing/htmlRoutes.js, .gitignore (to ignore node_modules folder from uploading to git repo). 
 
