@@ -90,7 +90,7 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 git clone git@github.com:JonathanBrownCFA/BiFriendFinder.git
 cd bifriendfinder
 npm install
-localhost:8080
+localhost:3000
 }
 ```
 ### **Demo**
